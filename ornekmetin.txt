@@ -1,0 +1,2 @@
+merhabalar
+bu yeni bir git repository dosyası
